@@ -37,8 +37,7 @@ int main(void)
     char *str;
 
     str = ft_strdup("42 is amazing!");
-    ft_putstr(str);
-    ft_strdel(&str);
+    puts(str);
     return (0);
 }
 ```
