@@ -16,7 +16,7 @@ The goal of `libft` is to create a comprehensive set of functions that will be u
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [your-repo-link]```
+   git clone git@github.com:cchadili10/libft.git
 
 ## Compile the library:
 ```make```
